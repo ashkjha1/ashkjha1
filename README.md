@@ -1,4 +1,7 @@
-### Hi there 🙋🏻‍♂️
+### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="gif" width="30px" />, I'm Ashish a Data Science Enthusiast.
+
+---
+
 
 <!--
 **ashkjha1/ashkjha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
