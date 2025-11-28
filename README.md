@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I'm currently working:** <br>On project related to Python, SAS and SQL.<br><br>👯 **I'm looking to collaborate on:** <br>Data Science/ ML related projects.<br><br>🌱 **I'm currently learning:** <br>Deep Learning and Computer Vision.<br><br>💬 **Ask me about:** <br>Python, Machine Learning, JavaScript.<br><br>⚡ **Fun f**act: <br>I love watching Anime and reading Manhua/Manhwa.
+🔭 **I'm currently working:** <br>On project related to Data Science / RAG / Generative AI .<br><br>👯 **I'm looking to collaborate on:** <br>Data Science/ ML related projects.<br><br>🌱 **I'm currently learning:** <br>Deep Learning and Computer Vision.<br><br>💬 **Ask me about:** <br>Python, Machine Learning, JavaScript.<br><br>⚡ **Fun f**act: <br>I love watching Anime and reading Manhua/Manhwa.
 
 
 ## 🌐 Socials:
